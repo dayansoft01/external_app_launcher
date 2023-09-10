@@ -1,4 +1,4 @@
-## Overview
+]]]## Overview
 
 A Flutter plugin which helps you to open another app from your app. The package asks you for four parameters out of which two are mandatory.
 
